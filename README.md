@@ -32,7 +32,7 @@ humain et évite les obstacles s'ils existent et atteint sa destination à la fi
 
 # Outils et logiciel
 
-# Solidworks
+# 1.Solidworks
 
 
 
@@ -54,5 +54,49 @@ Nous avons utilisé SolidWorks pour concevoir toutes les pièces mécaniques de 
 </pre>
 
 
+# 2.EasyEDA
 
+
+<pre>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/174496836-550a3f67-66c4-4d7e-a729-7100c5b9350d.png">
+</p>
+
+
+Nous avons utilisé EasyEDA pour concevoir tous les circuits électroniques.
+
+</pre>
+
+
+# 3.DietPi OS
+
+<pre>
+
+
+Nous avons choisi ce système car nous voulions atteindre une performance, vitesse et stabilité ultimes tout en consommant moins d'énergie.
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/174496898-73576d42-2948-4bc0-b674-edc4ac26c318.jpeg">
+</p>
+
+
+
+</pre>
+
+<pre>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/174496914-8832abed-12fa-45ee-b448-198086730625.jpg">
+</p>
+
+
+CPU: ARM 700 MHz
+RAM: 512 MB 
+Tension: 5V
+Amperage: 3A
+Puissance Maximale: 15W
+
+
+</pre>
 
