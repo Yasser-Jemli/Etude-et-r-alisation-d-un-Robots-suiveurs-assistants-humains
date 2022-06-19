@@ -39,10 +39,10 @@ humain et évite les obstacles s'ils existent et atteint sa destination à la fi
 
 <pre>
 
-p align="center">
+<p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/174496715-883b1c93-bd2f-4dc7-877d-c6f28f1723ba.png">
 </p>
-p align="center">
+<p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/174496749-7179003a-9748-45b1-b18c-44332ab31376.jpeg">
 </p>
 
