@@ -1,10 +1,12 @@
 # Etude-et-r-alisation-d-un-Robots-suiveurs-assistants-humains ( The Familaire V1.0 ) 
 
-Il y a une infinité de choses à découvrir sur la robotique. Beaucoup de choses sont tout simplement trop fantastiques pour que les gens y croient.
+Il y a une infinité de choses à découvrir sur la robotique. 
+Beaucoup de choses sont tout simplement trop fantastiques pour que les gens y croient.
 
 # Introduction Générale :
 
-Les robots sont la nécessité de notre époque et nous croyons à cette opinion. Nous avons donc pensé à faire un robot qui a à la fois la fonctionnalité autonome et la fonctionnalité de contrôle manuel.
+Les robots sont la nécessité de notre époque et nous croyons à cette opinion. 
+Nous avons donc pensé à faire un robot qui a à la fois la fonctionnalité autonome et la fonctionnalité de contrôle manuel.
 
 # Besoin de robot
 
@@ -74,7 +76,8 @@ Nous avons utilisé EasyEDA pour concevoir tous les circuits électroniques.
 <pre>
 
 
-Nous avons choisi ce système car nous voulions atteindre une performance, vitesse et stabilité ultimes tout en consommant moins d'énergie.
+Nous avons choisi ce système car nous voulions atteindre une performance,
+vitesse et stabilité ultimes tout en consommant moins d'énergie.
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/174496898-73576d42-2948-4bc0-b674-edc4ac26c318.jpeg">
