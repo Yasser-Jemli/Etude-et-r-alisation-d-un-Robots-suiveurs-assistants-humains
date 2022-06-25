@@ -103,3 +103,91 @@ Puissance Maximale: 15W
 
 </pre>
 
+<pre>
+
+# Python
+
+le language python est l'un des languages de programmtion les plus accessibles , car il possede une systemes simplifiées et non compliquée 
+
+</pre> 
+
+<pre> 
+
+# GPIO 
+
+nous avons reglé toutes les broches de moteur pour le controler 
+
+</pre>
+
+<pre> 
+
+# IWLIST 
+IWLIST affiche les informations sur tous les Réseaux WIFI disponible 
+
+</pre> 
+
+<pre> 
+
+# COntrole manuel du robot 
+
+</pre>
+ 
+<pre> 
+
+# Moteur Visseuse
+
+On a essayé d’utiliser des anciennes visseuse pour extraire  des moteurs fonctionnelles , apres on a demander une coup du main d’un Tourneur pour personnaliser les pieces et pour qu’ils soient adaptables à nos roues 
+
+</pre> 
+
+<pre> 
+
+# Conception 3D 
+
+
+</pre> 
+
+<pre> 
+
+# Conception de la chassis 
+
+- pLaque métallique 
+ nous avons donc essayé de rendre notre robot aussi robuste que possible. 
+
+
+- Roues 
+ On a utiliser des roues de dimensions trés élevées pour les terrains       difficiles
+
+- Boulon poelier acier 
+ Serrage des différents éléments de la chassis 
+ 
+ </pre> 
+ 
+ 
+ <pre>
+ 
+ # Batterie 12V 
+ 
+ La batterie est composée de cellules au lithium, chacune à 3,7V / 3A. Nous avons donc construit un bloc contenant trois cellules en série et nous avons relié trois de ces blocs en parallèle. 
+ 
+ 
+ </pre>
+ 
+ <pre> 
+ 
+ # Bloc Transformation de tension 220V AC vers 12V DC 
+ 
+ - Transformateur abaisseur de tension 
+ 
+  on a utiliser le transformateur pour abauisser la tension fournit par le secteur de 220V à 12V seulement 
+  
+  
+- Pont du Graitez 
+ utilisé pour le redressemnt double alternances 
+ 
+- Capacite de filtrage 
+ utilise pour le filtrage du signal 
+ 
+ - Regulateur IC 
+  utilise pour render le signal purement continu 
+  
