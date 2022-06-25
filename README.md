@@ -107,7 +107,8 @@ Puissance Maximale: 15W
 
 # Python
 
-le language python est l'un des languages de programmtion les plus accessibles , car il possede une systemes simplifiées et non compliquée 
+le language python est l'un des languages de programmtion les plus accessibles , 
+car il possede une systemes simplifiées et non compliquée 
 
 </pre> 
 
@@ -136,7 +137,9 @@ IWLIST affiche les informations sur tous les Réseaux WIFI disponible
 
 # Moteur Visseuse
 
-On a essayé d’utiliser des anciennes visseuse pour extraire  des moteurs fonctionnelles , apres on a demander une coup du main d’un Tourneur pour personnaliser les pieces et pour qu’ils soient adaptables à nos roues 
+On a essayé d’utiliser des anciennes visseuse pour extraire  des moteurs fonctionnelles ,
+apres on a demander une coup du main d’un Tourneur pour personnaliser les pieces et 
+pour qu’ils soient adaptables à nos roues 
 
 </pre> 
 
@@ -156,7 +159,7 @@ On a essayé d’utiliser des anciennes visseuse pour extraire  des moteurs fonc
 
 
 - Roues 
- On a utiliser des roues de dimensions trés élevées pour les terrains       difficiles
+ On a utiliser des roues de dimensions trés élevées pour les terrains difficiles
 
 - Boulon poelier acier 
  Serrage des différents éléments de la chassis 
@@ -168,7 +171,9 @@ On a essayé d’utiliser des anciennes visseuse pour extraire  des moteurs fonc
  
  # Batterie 12V 
  
- La batterie est composée de cellules au lithium, chacune à 3,7V / 3A. Nous avons donc construit un bloc contenant trois cellules en série et nous avons relié trois de ces blocs en parallèle. 
+ La batterie est composée de cellules au lithium, chacune à 3,7V / 3A. 
+ Nous avons donc construit un bloc contenant trois cellules en série et 
+ nous avons relié trois de ces blocs en parallèle. 
  
  
  </pre>
