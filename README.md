@@ -24,7 +24,7 @@ Nous utiliserons la puissance du signal ou le décibel par mètre (Dbm) pour loc
 <pre>
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/174496553-0189d4aa-a058-4000-98f1-d09b688c4761.png">
+  <img width="660" height="800" src="https://user-images.githubusercontent.com/92098387/174496553-0189d4aa-a058-4000-98f1-d09b688c4761.png">
 </p>
 
 Le robot se déplace sans aucun contrôle
