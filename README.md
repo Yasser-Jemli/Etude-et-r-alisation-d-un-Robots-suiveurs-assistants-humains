@@ -413,7 +413,7 @@ pour ce bloc , le principe est simple ce dernier va mesurer la tension fournit p
 Nous n'avons pas réussi à utiliser le LM293N comme contrôleur des moteurs. Les relais étaient parfaits car nous avons réussi à faire bouger le robot au premier lieu et depuis, nous n'avons plus rencontré de problèmes liés aux moteurs. 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175812356-412fc687-a9cb-4e6d-8b6e-8ca0c65cf318.png">
+  <img width="360" height="300" src="https://user-images.githubusercontent.com/92098387/175812356-412fc687-a9cb-4e6d-8b6e-8ca0c65cf318.png">
 </p>
 
 </pre> 
