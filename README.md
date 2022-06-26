@@ -467,54 +467,12 @@ principe de fonctionnement : la personne doit avoir une piéce qui émet un sign
 </p>
 
 </pre>
-<pre>
-
-
-
-
-
-
-
-
-
-
 
 https://user-images.githubusercontent.com/92098387/175818454-5dd544ac-1ef7-4341-9b68-ecbec66849f2.mp4
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</pre>
-
 # Ready to GO 
-
-<pre>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -541,4 +499,3 @@ https://user-images.githubusercontent.com/92098387/175818699-4177fea1-0557-42e4-
 
 
 
-</pre>
