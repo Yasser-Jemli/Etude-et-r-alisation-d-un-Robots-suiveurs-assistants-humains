@@ -407,4 +407,42 @@ Nous n'avons pas réussi à utiliser le LM293N comme contrôleur des moteurs. Le
 
 </pre> 
 
+# Pourquoi nous n'avons pas utilisé le GPS pour la navigation ? 
 
+<pre>
+
+3 Raison principaux
+     - Le GPS ne fonctionne dans les temps nuageux 
+     - Le GPS ne fonctionne pas à l'intérieur 
+      - Le GPS appartient à d'autres pays #
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175817668-3cd18a5a-8cd6-4ae9-a198-fa50f17db07d.png">
+</p>
+
+
+</pre>
+
+# nous avons choisi le wifi!
+
+<pre> 
+principe de fonctionnement : la personne doit avoir une piéce qui émet un signal wifi et le robot la trouvera ou la suivra 
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175817790-cfe3655e-6c2c-4e3d-9a00-d7013a7b060d.png">
+</p>
+
+
+
+</pre> 
+
+
+
+<pre>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175817833-04ab3ac8-ffa0-4de0-83e5-f7fdca1f12e7.png">
+</p>
+
+
+</pre>
