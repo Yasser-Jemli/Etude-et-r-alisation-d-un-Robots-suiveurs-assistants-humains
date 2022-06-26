@@ -206,6 +206,7 @@ pour qu’ils soient adaptables à nos roues
 
 </pre> 
 
+https://user-images.githubusercontent.com/92098387/175819110-39d4cdd0-ebbc-4372-bf82-9835eae09efd.mp4
 
 
 # Conception de la chassis 
@@ -267,7 +268,9 @@ pour qu’ils soient adaptables à nos roues
  
  </pre>
  
- 
+ https://user-images.githubusercontent.com/92098387/175819119-3d56eb46-9d90-4b29-8eb2-5e348254cd8f.mp4
+
+
  
  # Bloc Transformation de tension 220V AC vers 12V DC 
  
@@ -480,16 +483,6 @@ https://user-images.githubusercontent.com/92098387/175818699-4177fea1-0557-42e4-
 
 
 
-
-https://user-images.githubusercontent.com/92098387/175819066-fad37115-7e5f-4c0f-bb47-8020dcc0f84f.mp4
-
-
-
-https://user-images.githubusercontent.com/92098387/175819119-3d56eb46-9d90-4b29-8eb2-5e348254cd8f.mp4
-
-
-
-https://user-images.githubusercontent.com/92098387/175819110-39d4cdd0-ebbc-4372-bf82-9835eae09efd.mp4
 
 
 
