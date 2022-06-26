@@ -212,6 +212,14 @@ pour qu’ils soient adaptables à nos roues
 
 
 <pre>
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175818406-4666eb58-f355-40a0-97b5-cd9246a87e6f.jpg">
+</p>
+
+
+
+
+
 
 - pLaque métallique 
  nous avons donc essayé de rendre notre robot aussi robuste que possible. 
@@ -444,5 +452,32 @@ principe de fonctionnement : la personne doit avoir une piéce qui émet un sign
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175817833-04ab3ac8-ffa0-4de0-83e5-f7fdca1f12e7.png">
 </p>
 
+
+</pre>
+
+# SOLDERING THE PCB
+<pre>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175818347-e12f1836-4ddd-4b23-9dbb-4f13fd5fadce.jpg">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175818353-d1d78598-5f70-4894-8ece-c9e5e482c0d9.jpg">
+</p>
+
+</pre>
+<pre>
+
+https://user-images.githubusercontent.com/92098387/175818454-5dd544ac-1ef7-4341-9b68-ecbec66849f2.mp4
+
+
+</pre>
+
+# Ready to GO 
+
+<pre>
+
+https://user-images.githubusercontent.com/92098387/175818699-4177fea1-0557-42e4-885f-90cfd21bf0a5.mp4
 
 </pre>
