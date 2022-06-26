@@ -168,10 +168,10 @@ IWLIST affiche les informations sur tous les Réseaux WIFI disponible
 <pre> 
 
 <p align="center">
-  <img width="860" height="600" src="https://user-images.githubusercontent.com/92098387/175809373-ccdeb622-f9b8-4791-bffe-05fa89c1dd19.png">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809373-ccdeb622-f9b8-4791-bffe-05fa89c1dd19.png">
 </p>
 <p align="center">
-  <img width="860" height="600" src="https://user-images.githubusercontent.com/92098387/175809377-574128d9-825b-40db-8b2c-4b1654f16782.png">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809377-574128d9-825b-40db-8b2c-4b1654f16782.png">
 </p>
 
 </pre>
@@ -291,12 +291,12 @@ pour qu’ils soient adaptables à nos roues
 - LM2576 : composant electronique pour reguler la tension 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809036-61394989-08ad-4414-8fea-249080d3359b.png">
+  <img width="260" height="200" src="https://user-images.githubusercontent.com/92098387/175809036-61394989-08ad-4414-8fea-249080d3359b.png">
 </p>
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809064-5bdb7ca8-dd8f-405a-8a94-492adc35349a.png">
+  <img width="260" height="200" src="https://user-images.githubusercontent.com/92098387/175809064-5bdb7ca8-dd8f-405a-8a94-492adc35349a.png">
 </p>
 
 
@@ -315,7 +315,7 @@ Distance de réception : environ 7 - 8M.
 
 </p>
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175810983-39195afa-b9c0-4102-88a7-94e46c8a6033.png">
+  <img width="260" height="200" src="https://user-images.githubusercontent.com/92098387/175810983-39195afa-b9c0-4102-88a7-94e46c8a6033.png">
 </p>
 
 <p align="center">
@@ -329,7 +329,7 @@ Tension d’alimentation :  1.2-1.4V.
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175810995-f77c51e3-0d6e-44f4-901b-9589f2e69d45.png">
+  <img width="260" height="200" src="https://user-images.githubusercontent.com/92098387/175810995-f77c51e3-0d6e-44f4-901b-9589f2e69d45.png">
 </p>
 
 <p align="center">
@@ -346,7 +346,7 @@ Température ambiante : varie de 0°c jusqu’à 70°c
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175811011-0300eb7c-dc61-46ba-bce3-28b93743bccb.png">
+  <img width="260" height="200" src="https://user-images.githubusercontent.com/92098387/175811011-0300eb7c-dc61-46ba-bce3-28b93743bccb.png">
 </p>
 
 
@@ -357,14 +357,14 @@ Indiquer la présence d’obstacle
 
 </p>
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175811019-49bf45e9-f900-4870-8f1a-7e236f44ff40.png">
+  <img width="260" height="200" src="https://user-images.githubusercontent.com/92098387/175811019-49bf45e9-f900-4870-8f1a-7e236f44ff40.png">
 </p>
 
 </pre>
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175811590-25e201c6-73cd-4a8c-b6f3-b44628eec6de.png">
+  <img width="860" height="600" src="https://user-images.githubusercontent.com/92098387/175811590-25e201c6-73cd-4a8c-b6f3-b44628eec6de.png">
 </p>
 
 
