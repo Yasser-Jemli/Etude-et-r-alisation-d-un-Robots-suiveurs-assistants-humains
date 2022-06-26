@@ -113,7 +113,7 @@ le language python est l'un des languages de programmtion les plus accessibles ,
 car il possede une systemes simplifiées et non compliquée 
 
 
-p align="center">
+<p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809197-befb82bb-e8b2-4f1a-acf8-d33797d6a806.png">
 </p>
 
@@ -130,7 +130,7 @@ p align="center">
 nous avons reglé toutes les broches de moteur pour le controler 
 
 
-p align="center">
+<p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809218-f8f59a6b-2dfe-4b89-b3c2-545516d8a820.png">
 </p>
 
@@ -145,11 +145,12 @@ p align="center">
 
 IWLIST affiche les informations sur tous les Réseaux WIFI disponible 
 
-p align="center">
+<p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809264-5c256065-1fb0-4fcc-a11d-48e6f6387996.png">
 </p>
 
-![image](https://user-images.githubusercontent.com/92098387/175809362-e0a95af7-2473-4cd6-857e-330e2cdf8551.png)
+https://user-images.githubusercontent.com/92098387/175809362-e0a95af7-2473-4cd6-857e-330e2cdf8551.png
+
 
 
 </pre> 
@@ -159,8 +160,10 @@ p align="center">
 # Controle manuel du robot 
 
 <pre> 
-![image](https://user-images.githubusercontent.com/92098387/175809373-ccdeb622-f9b8-4791-bffe-05fa89c1dd19.png)
-![image](https://user-images.githubusercontent.com/92098387/175809377-574128d9-825b-40db-8b2c-4b1654f16782.png)
+
+https://user-images.githubusercontent.com/92098387/175809373-ccdeb622-f9b8-4791-bffe-05fa89c1dd19.png
+https://user-images.githubusercontent.com/92098387/175809377-574128d9-825b-40db-8b2c-4b1654f16782.png
+
 
 </pre>
  
