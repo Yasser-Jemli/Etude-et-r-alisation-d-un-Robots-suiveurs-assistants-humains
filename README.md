@@ -116,7 +116,7 @@ car il possede une systemes simplifiées et non compliquée
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809197-befb82bb-e8b2-4f1a-acf8-d33797d6a806.png">
+  <img width="460" height="600" src="https://user-images.githubusercontent.com/92098387/175809197-befb82bb-e8b2-4f1a-acf8-d33797d6a806.png">
 </p>
 
 
