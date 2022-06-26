@@ -414,7 +414,7 @@ Nous n'avons pas réussi à utiliser le LM293N comme contrôleur des moteurs. Le
 3 Raison principaux
      - Le GPS ne fonctionne dans les temps nuageux 
      - Le GPS ne fonctionne pas à l'intérieur 
-      - Le GPS appartient à d'autres pays #
+     - Le GPS appartient à d'autres pays #
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175817668-3cd18a5a-8cd6-4ae9-a198-fa50f17db07d.png">
