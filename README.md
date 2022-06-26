@@ -196,3 +196,21 @@ pour qu’ils soient adaptables à nos roues
  - Regulateur IC 
   utilise pour render le signal purement continu 
   
+<pre>
+
+# Bloc régulateur du tension 12V vers 5v
+
+- LM2576 : composant electronique pour reguler la tension 
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809036-61394989-08ad-4414-8fea-249080d3359b.png">
+</p>
+
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809064-5bdb7ca8-dd8f-405a-8a94-492adc35349a.png">
+</p>
+
+
+
+</pre>
