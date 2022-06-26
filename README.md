@@ -360,6 +360,11 @@ Indiquer la présence d’obstacle
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175811019-49bf45e9-f900-4870-8f1a-7e236f44ff40.png">
 </p>
 
-
 </pre>
+
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175811590-25e201c6-73cd-4a8c-b6f3-b44628eec6de.png">
+</p>
+
 
