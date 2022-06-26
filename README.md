@@ -368,3 +368,43 @@ Indiquer la présence d’obstacle
 </p>
 
 
+# Bloc indicateur de tension 
+
+<pre> 
+
+Indication de niveau du tension du batterie : 
+un petit circuit qui utilise le concept de division du courant pour 
+montrer le niveau d'énergie de la batterie en allumant des LED 
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175811647-97e9c7a3-2f45-4ac3-884f-248cce291b26.png">
+</p>
+
+</pre> 
+
+# Bloc indicateur de basse tension 
+
+<pre> 
+
+indication pour le chargement obligatoire de la betterie 
+
+pour ce bloc , le principe est simple ce dernier va mesurer la tension fournit par la batterie et indiquer au Raspberry si la batterie est chargée ou non pour fournir un alerte à l'utilisateur pour charger la batterie avant d'envoyer le robot à la mission 
+
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175811751-6156b96a-a50d-4a95-a107-d4fb5fc49ca1.png">
+</p>
+
+</pre>
+
+# Bloc de puissance (Controleur des 4 moteurs ) 
+<pre> 
+Nous n'avons pas réussi à utiliser le LM293N comme contrôleur des moteurs. Les relais étaient parfaits car nous avons réussi à faire bouger le robot au premier lieu et depuis, nous n'avons plus rencontré de problèmes liés aux moteurs. 
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175812356-412fc687-a9cb-4e6d-8b6e-8ca0c65cf318.png">
+</p>
+
+</pre> 
+
+
