@@ -93,12 +93,14 @@ vitesse et stabilité ultimes tout en consommant moins d'énergie.
   <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/174496914-8832abed-12fa-45ee-b448-198086730625.jpg">
 </p>
 
+<p align="center">
+< CPU: ARM 700 MHz
+  RAM: 512 MB 
+  Tension: 5V
+  Amperage: 3A
+  Puissance Maximale: 15W>
+</p>
 
-CPU: ARM 700 MHz
-RAM: 512 MB 
-Tension: 5V
-Amperage: 3A
-Puissance Maximale: 15W
 
 
 </pre>
