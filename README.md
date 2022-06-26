@@ -94,11 +94,11 @@ vitesse et stabilité ultimes tout en consommant moins d'énergie.
 </p>
 
 <p align="center">
-< CPU: ARM 700 MHz
+  CPU: ARM 700 MHz
   RAM: 512 MB 
   Tension: 5V
   Amperage: 3A
-  Puissance Maximale: 15W>
+  Puissance Maximale: 15W
 </p>
 
 
@@ -186,7 +186,7 @@ apres on a demander une coup du main d’un Tourneur pour personnaliser les piec
 pour qu’ils soient adaptables à nos roues 
 
 <p align="center">
-  <img width="860" height="600" src="https://user-images.githubusercontent.com/92098387/175809864-91ef29d3-3bbb-4e63-b228-d2b60a6e08a9.png">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175809864-91ef29d3-3bbb-4e63-b228-d2b60a6e08a9.png">
 </p>
 
 
@@ -206,42 +206,74 @@ pour qu’ils soient adaptables à nos roues
 
 </pre> 
 
-<pre> 
+
 
 # Conception de la chassis 
+
+
+<pre>
 
 - pLaque métallique 
  nous avons donc essayé de rendre notre robot aussi robuste que possible. 
 
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175810068-b7126416-6dd0-4377-8235-aa2454e16105.png">
+</p>
+
 
 - Roues 
  On a utiliser des roues de dimensions trés élevées pour les terrains difficiles
+ 
+ <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175810827-213c254f-9ad8-4a4a-b064-21022a3e945d.png">
+</p>
+
 
 - Boulon poelier acier 
  Serrage des différents éléments de la chassis 
  
+  <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175810859-f25c4867-a80f-4907-9ad0-36b90419fa98.png">
+</p>
+
+
+ 
  </pre> 
  
  
- <pre>
+ 
  
  # Batterie 12V 
+ 
+ <pre> 
+ 
  
  La batterie est composée de cellules au lithium, chacune à 3,7V / 3A. 
  Nous avons donc construit un bloc contenant trois cellules en série et 
  nous avons relié trois de ces blocs en parallèle. 
  
+ <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175810885-7b2eb3e9-6987-42d7-b2fb-3cb6878e2650.png">
+</p>
+
  
  </pre>
  
- <pre> 
+ 
  
  # Bloc Transformation de tension 220V AC vers 12V DC 
+ 
+ <pre> 
+ 
  
  - Transformateur abaisseur de tension 
  
   on a utiliser le transformateur pour abauisser la tension fournit par le secteur de 220V à 12V seulement 
   
+  <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175810932-e45577b3-ea37-4da1-8f28-df767b9e0876.png">
+</p>
+
   
 - Pont du Graitez 
  utilisé pour le redressemnt double alternances 
@@ -252,7 +284,7 @@ pour qu’ils soient adaptables à nos roues
  - Regulateur IC 
   utilise pour render le signal purement continu 
   
-<pre>
+</pre>
 
 # Bloc régulateur du tension 12V vers 5v
 
@@ -268,5 +300,66 @@ pour qu’ils soient adaptables à nos roues
 </p>
 
 
+</pre>
+
+#  Bloc éviteur d'obstacles 
+
+<pre>
+<p align="center">
+
+* Diode émetteur 
+
+Tension d’alimentation : 1.2-1.4V. 
+Courant direct : 100mA. 
+Distance de réception : environ 7 - 8M.
+
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175810983-39195afa-b9c0-4102-88a7-94e46c8a6033.png">
+</p>
+
+<p align="center">
+
+* Diode récepteur 
+
+Tension d’alimentation :  1.2-1.4V. 
+ Courant direct :  100mA. 
+ Distance d’émission :  environ 7 - 8M. 
+
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175810995-f77c51e3-0d6e-44f4-901b-9589f2e69d45.png">
+</p>
+
+<p align="center">
+
+* Comparateur LM358N
+
+Tension d’alimentation : min est 3v/±1.5v max est 32v/±16v 
+Type d’alimentation : single ou dual 
+Courant d’alimentation : 1.2Ma 
+Courant de polarisation d’entrée : 250nA 
+Température ambiante : varie de 0°c jusqu’à 70°c 
+
+
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175811011-0300eb7c-dc61-46ba-bce3-28b93743bccb.png">
+</p>
+
+
+<p align="center">
+* LED d'indication 
+
+Indiquer la présence d’obstacle 
+
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/92098387/175811019-49bf45e9-f900-4870-8f1a-7e236f44ff40.png">
+</p>
+
 
 </pre>
+
